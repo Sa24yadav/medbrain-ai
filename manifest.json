@@ -1,0 +1,28 @@
+{
+  "name": "MedBrain AI",
+  "short_name": "MedBrain",
+  "description": "Your AI Co-Pilot in Better Healthcare - For Doctors & Patients",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["medical", "health", "productivity"],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
